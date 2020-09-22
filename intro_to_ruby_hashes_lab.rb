@@ -1,6 +1,5 @@
 def base_hash
   monopoly_hash = { "railroads" => "" }
-  return 
 end
 
 def monopoly_with_second_tier
