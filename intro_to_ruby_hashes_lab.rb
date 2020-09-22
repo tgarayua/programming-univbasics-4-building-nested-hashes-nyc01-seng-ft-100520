@@ -12,7 +12,7 @@ def monopoly_with_second_tier
   end
 
 def monopoly_with_third_tier
-  return :rent_in_dollars => {
+  :rent_in_dollars => {
     :one_piece_owned => 25,
     :two_pieces_owned => 50,
     :three_pieces_owned => 100,
